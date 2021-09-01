@@ -13,6 +13,12 @@ There are three dominant Cloud providers, any each one has some explanation of w
 * [Google Cloud Platform](https://cloud.google.com/learn/what-is-cloud-computing)
 
 This course will not attemt to compare them, but will focus on AWS.
+AWS provides [a large number of different services](https://docs.aws.amazon.com/),
+grouped into categories, like:
+* Compute
+* Storage
+* Databases
+* Networking
 
 ## Excercise
 
@@ -34,4 +40,5 @@ Delete the bucket.
 ## Test
 
 1. When you'd use the CLI instead of the web console?
+1. What type of service S3 belongs to?
 1. How much your credit card be charged if a 1000 different users downloaded your file 100 times?
